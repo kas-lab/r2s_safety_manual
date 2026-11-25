@@ -9,12 +9,12 @@ R2S section - Safety Manual
 Department of Cognitive Robotics, TU Delft
 (For both staff and students)
 
-This is the Safety Manual of the Robust Robot Systems section of teh Cognitive Robotics Department, Faculty Mechanical Engineering, TU Delft.
+This is the Safety Manual of the Robust Robot Systems (R2S) section of the Department of Cognitive Robotics, Faculty of Mechanical Engineering, TU Delft.
 
 .. _fig-robot:
 
 .. figure:: _static/Lab_outside.jpeg
-   :alt: Robot diagram
+   :alt: Outside view of the lab
    :align: center
    :width: 60%
 
@@ -25,11 +25,15 @@ This is the Safety Manual of the Robust Robot Systems section of teh Cognitive R
 This manual applies to all lab spaces of the R2S, currently:
 
 - Mobile Manipulation Lab
+
   - Location: 34.F-0-450
   - Contact: Carlos Hernandez Corbato
+
 - AgriFood Lab
+
   - Location: RoboHouse
   - Contact: Chris Pek
+
 
 1. General Conduct
 ------------------
@@ -47,24 +51,26 @@ Tiago++ Mobile Manipulator & Clearpath Boxer + Franka Arm
    :align: center
 
    * - .. figure:: _static/Albert.jpeg
-          :alt: First image
+          :alt: Albert robot
           :width: 100%
 
-          Albert robot(Franka Arm + Clearpath Boxer)
+          Albert robot (Franka Arm + Clearpath Boxer)
      - .. figure:: _static/Tiago.jpeg
-          :alt: Second image
+          :alt: Tiago++ mobile manipulator
           :width: 100%
 
           Tiago++ Mobile Manipulator
          
-The manual of Albert can be found here:(ToDo)
+The manual of Albert can be found here: (ToDo)
 
 - **Training required:** Only trained users may operate robots.
 - **Powering on/off:** Follow official startup/shutdown procedures. Never hot-plug cables.
 - **Operating zone:** Maintain a **2 m safety distance** around robots when active.
 - **Emergency stop (E-Stop):**
+
   - Know the location of the robot’s hardware E-Stop buttons and wireless controller.
   - Press immediately if motion is unsafe or unexpected.
+
 - **Speed limits:** Use reduced speed during experiments involving humans.
 - **Supervision:** Robots must never run unattended.
 
@@ -74,12 +80,12 @@ The manual of Albert can be found here:(ToDo)
 - **Hair:** Tie back long hair.
 - **Protective gear:** Safety glasses are recommended when testing manipulation tasks involving objects.
 - **Manual handling:** Do not manually force robot joints or wheels unless explicitly trained to do so.
-- **In case of injury:** There are band aid dispensers in front of the lab.
+- **In case of injury:** Band-aid dispensers are available in front of the lab.
 
   .. _fig-bandage:
 
   .. figure:: _static/bandage.jpg
-   :alt: Robot diagram
+   :alt: Band-aid dispenser
    :align: center
    :width: 40%
 
@@ -92,15 +98,15 @@ The manual of Albert can be found here:(ToDo)
 
   - Charge robots only at approved stations.
   - Do not leave charging robots unattended overnight.
-  - In cafe of using battery for Mirte-master robot, you should put the battery in the battery closet. 
-  
+  - When you use a battery for the Mirte-Master robot, put it back in the battery closet afterwards.
+
   .. _fig-battery:
 
   .. figure:: _static/battery_closet.jpeg
-   :alt: Robot diagram
+   :alt: Battery closet
    :align: center
    :width: 40%
-  
+
 
 5. Emergencies
 --------------
@@ -116,7 +122,7 @@ Lab members are responsible for:
 - Following this safety manual.
 - Respecting shared equipment and workspace.
 - Keeping the lab a safe and collaborative environment.
-- Apply “GOOD HOUSEKEEPING” e.g. return tools and equipment to their designated place after use, clean after work, etc.
+- Applying “good housekeeping”, e.g., returning tools and equipment to their designated place after use and cleaning up after work.
 
 **Failure to comply may result in suspension of lab access.**
 
@@ -130,7 +136,7 @@ If in doubt, stop the robot and ask a supervisor.
    :includehidden:
    :hidden:
    
-   SE-Robotics Summer Schools <self>
+   R2S section - Safety Manual <self>
    contact
 
 .. toctree::
@@ -142,5 +148,5 @@ If in doubt, stop the robot and ask a supervisor.
 License
 -------
 
-The project is licensed under the Apache 2.0 license
+The project is licensed under the Apache 2.0 license.
 

@@ -73,6 +73,15 @@ html_theme_options = {
     'navigation_depth': -1
 }
 
+# "Edit on GitHub" link at the top of every page (sphinx_rtd_theme)
+html_context = {
+    'display_github': True,
+    'github_user': 'kas-lab',
+    'github_repo': gitrepo,
+    'github_version': 'main',
+    'conf_py_path': '/docs/source/',
+}
+
 pygments_style = 'sphinx'
 
 # Add any paths that contain custom static files (such as style sheets) here,
